@@ -11,10 +11,6 @@
 #Check that Mean(Xn) -> E(X) as you rerun your
 #script while increasing N
 
-#Hin1: 
-#for(i in rnorm(100)){
-  #
-#}
 
 N <- 1000000
 counter <- 0
